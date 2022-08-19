@@ -7,7 +7,7 @@
 
 # Clone this project
 * open git bash
-<img src="image/git/git bash.png" width="100%">
+<img src="image/git/git bash.png" width="100%"><br>
 * copy github url
 <img src="image/git/git url.png" width="100%">
 * git clone https://github.com/sivelll/fstop_system_punch_in-.git
