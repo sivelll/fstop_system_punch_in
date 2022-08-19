@@ -4,7 +4,14 @@
 * git bash
 * github
 * WinOS
+* ChromeDriver
 
+<mark>8/19 Update ChromeDriver</mark>
+# Download ChromeDriver
+* Download
+<img src="image/ChromeDriver/1.png" width="100%"><br>
+* Put in disk C
+<img src="image/ChromeDriver/2.png" width="100%"><br>
 # Clone this project
 * open git bash
 <img src="image/git/git bash.png" width="100%"><br>
